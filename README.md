@@ -23,7 +23,7 @@ of VNINS
 
 Check about vn-300 and data in https://geo-matching.com/uploads/default/m/i/migrationawsfgl.pdf
 
-
+eash sh: echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 
 # build 
 
