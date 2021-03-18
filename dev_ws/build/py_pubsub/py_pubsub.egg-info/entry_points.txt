@@ -1,0 +1,9 @@
+[console_scripts]
+listener = py_pubsub.subscriber_member_function:main
+vn_altitude = py_pubsub.vn_altitude:main
+vn_latitude = py_pubsub.vn_latitude:main
+vn_pitch = py_pubsub.vn_pitch:main
+vn_roll = py_pubsub.vn_roll:main
+vn_time = py_pubsub.vn_time:main
+vn_yaw = py_pubsub.vn_yaw:main
+

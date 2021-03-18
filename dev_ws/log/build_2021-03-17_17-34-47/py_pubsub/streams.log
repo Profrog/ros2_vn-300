@@ -1,0 +1,30 @@
+[0.227s] Invoking command in '/home/mingyu/dev_ws/src/py_pubsub': PYTHONPATH=/home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/mingyu/dev_ws/build/py_pubsub/build install --prefix /home/mingyu/dev_ws/install/py_pubsub --record /home/mingyu/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
+[0.430s] running egg_info
+[0.430s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.430s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.431s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.431s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.431s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.457s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.458s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.458s] running build
+[0.458s] running build_py
+[0.458s] copying py_pubsub/vn_yaw.py -> /home/mingyu/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.459s] running install
+[0.459s] running install_lib
+[0.460s] copying /home/mingyu/dev_ws/build/py_pubsub/build/lib/py_pubsub/vn_yaw.py -> /home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] byte-compiling /home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_yaw.py to vn_yaw.cpython-38.pyc
+[0.462s] running install_data
+[0.462s] running install_egg_info
+[0.463s] removing '/home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[0.463s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.464s] running install_scripts
+[0.478s] Installing listener script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_altitude script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_latitude script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_pitch script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_roll script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_time script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] Installing vn_yaw script to /home/mingyu/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.478s] writing list of installed files to '/home/mingyu/dev_ws/build/py_pubsub/install.log'
+[0.493s] Invoked command in '/home/mingyu/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/mingyu/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/mingyu/dev_ws/build/py_pubsub/build install --prefix /home/mingyu/dev_ws/install/py_pubsub --record /home/mingyu/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
