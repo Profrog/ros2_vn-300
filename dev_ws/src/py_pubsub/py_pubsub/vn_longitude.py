@@ -33,13 +33,13 @@ def vn300(string):
 	# print(string)
 	
 	
-	global Altitude_vn
+	global Longitude_vn
 	# Time_vn = data_list[1]
 	# Yaw_vn = data_list[4]
 	# Pitch_vn = data_list[5]
 	# Roll_vn = data_list[6]
 	# Latitude_vn = data_list[7]
-	Altitude_vn = data_list[8]
+	Longitude_vn = data_list[8]
 	
 		
 	# print("Time_vn " + Time_vn)
@@ -57,7 +57,7 @@ class MinimalPublisher(Node):
 
     def __init__(self):
         super().__init__('minimal_publisher')
-        self.publisher_ = self.create_publisher(String, 'vn_altitude', 10)
+        self.publisher_ = self.create_publisher(String, 'vn_longitude', 10)
         timer_period = 0.5  # seconds
         self.timer = self.create_timer(timer_period, self.timer_callback)
         self.i = 0
@@ -66,10 +66,10 @@ class MinimalPublisher(Node):
     
         vn300(ser.readline())	
         msg = String()
-        msg.data = Altitude_vn
+        msg.data = Longitude_vn
                 
         self.publisher_.publish(msg)
-        self.get_logger().info('Altitude_vn : "%s"' % msg.data)
+        self.get_logger().info('Longitude_vn : "%s"' % msg.data)
         self.i += 1
 
 

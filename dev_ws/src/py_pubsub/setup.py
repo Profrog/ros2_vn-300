@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
         
-        	'vn_altitude = py_pubsub.vn_altitude:main',
+        	'vn_longitude = py_pubsub.vn_longitude:main',
         	'vn_latitude = py_pubsub.vn_latitude:main',
         	'vn_pitch = py_pubsub.vn_pitch:main',
         	'vn_roll = py_pubsub.vn_roll:main',

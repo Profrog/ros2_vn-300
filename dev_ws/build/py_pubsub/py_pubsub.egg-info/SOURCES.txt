@@ -10,8 +10,8 @@ setup.py
 ../../build/py_pubsub/py_pubsub.egg-info/zip-safe
 py_pubsub/__init__.py
 py_pubsub/subscriber_member_function.py
-py_pubsub/vn_altitude.py
 py_pubsub/vn_latitude.py
+py_pubsub/vn_longitude.py
 py_pubsub/vn_pitch.py
 py_pubsub/vn_roll.py
 py_pubsub/vn_time.py
