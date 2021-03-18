@@ -27,6 +27,8 @@ setup(
         	'vn_roll = py_pubsub.vn_roll:main',
         	'vn_time = py_pubsub.vn_time:main',
         	'vn_yaw = py_pubsub.vn_yaw:main',
+        	'vn_vector3 = py_pubsub.vn_vector3:main',
+        	'vn_navsatfix = py_pubsub.vn_navsatfix:main',
         	
         	      	
         	'listener = py_pubsub.subscriber_member_function:main',      

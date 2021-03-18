@@ -12,9 +12,11 @@ py_pubsub/__init__.py
 py_pubsub/subscriber_member_function.py
 py_pubsub/vn_latitude.py
 py_pubsub/vn_longitude.py
+py_pubsub/vn_navsatfix.py
 py_pubsub/vn_pitch.py
 py_pubsub/vn_roll.py
 py_pubsub/vn_time.py
+py_pubsub/vn_vector3.py
 py_pubsub/vn_yaw.py
 resource/py_pubsub
 test/test_copyright.py
