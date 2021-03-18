@@ -1,0 +1,69 @@
+[0.224s] Invoking command in '/home/mingyu/ros2_vn-300/dev_ws/src/py_pubsub': PYTHONPATH=/home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build install --prefix /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub --record /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/install.log --single-version-externally-managed
+[0.429s] running egg_info
+[0.429s] creating ../build/py_pubsub/py_pubsub.egg-info
+[0.429s] writing ../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.430s] writing dependency_links to ../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.430s] writing entry points to ../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.430s] writing requirements to ../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.430s] writing top-level names to ../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.431s] writing manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.457s] reading manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.458s] writing manifest file '../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.458s] running build
+[0.458s] running build_py
+[0.458s] creating /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build
+[0.458s] creating /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib
+[0.458s] creating /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.458s] copying py_pubsub/vn_time.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_navsatfix.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/subscriber_member_function.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_longitude.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_yaw.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/__init__.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_pitch.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_vector3.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_roll.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] copying py_pubsub/vn_latitude.py -> /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub
+[0.459s] running install
+[0.459s] running install_lib
+[0.460s] creating /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.460s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_time.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.460s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_navsatfix.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_longitude.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_yaw.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_pitch.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_vector3.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_roll.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] copying /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build/lib/py_pubsub/vn_latitude.py -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.461s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_time.py to vn_time.cpython-38.pyc
+[0.462s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_navsatfix.py to vn_navsatfix.cpython-38.pyc
+[0.463s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[0.463s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_longitude.py to vn_longitude.cpython-38.pyc
+[0.463s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_yaw.py to vn_yaw.cpython-38.pyc
+[0.464s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[0.464s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_pitch.py to vn_pitch.cpython-38.pyc
+[0.464s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_vector3.py to vn_vector3.cpython-38.pyc
+[0.465s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_roll.py to vn_roll.cpython-38.pyc
+[0.465s] byte-compiling /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/vn_latitude.py to vn_latitude.cpython-38.pyc
+[0.465s] running install_data
+[0.466s] creating /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/share/ament_index
+[0.466s] creating /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/share/ament_index/resource_index
+[0.466s] creating /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/share/ament_index/resource_index/packages
+[0.466s] copying resource/py_pubsub -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/share/ament_index/resource_index/packages
+[0.466s] copying package.xml -> /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/share/py_pubsub
+[0.466s] running install_egg_info
+[0.467s] Copying ../build/py_pubsub/py_pubsub.egg-info to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.468s] running install_scripts
+[0.481s] Installing listener script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_latitude script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_longitude script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_navsatfix script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_pitch script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_roll script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_time script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_vector3 script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] Installing vn_yaw script to /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/py_pubsub
+[0.482s] writing list of installed files to '/home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/install.log'
+[0.497s] Invoked command in '/home/mingyu/ros2_vn-300/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_pubsub build --build-base /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/build install --prefix /home/mingyu/ros2_vn-300/dev_ws/src/install/py_pubsub --record /home/mingyu/ros2_vn-300/dev_ws/src/build/py_pubsub/install.log --single-version-externally-managed
