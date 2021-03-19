@@ -29,6 +29,7 @@ setup(
         	'vn_yaw = py_pubsub.vn_yaw:main',
         	'vn_vector3 = py_pubsub.vn_vector3:main',
         	'vn_navsatfix = py_pubsub.vn_navsatfix:main',
+        	'vn_300 = py_pubsub.vn_300:main',
         	
         	      	
         	'listener = py_pubsub.subscriber_member_function:main',      

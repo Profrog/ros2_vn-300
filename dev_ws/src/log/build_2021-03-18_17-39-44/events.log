@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[0.000745] (py_pubsub) JobQueued: {'identifier': 'py_pubsub', 'dependencies': OrderedDict()}
+[0.000787] (py_pubsub) JobStarted: {'identifier': 'py_pubsub'}
+[0.034643] (py_pubsub) JobEnded: {'identifier': 'py_pubsub', 'rc': 0}
+[0.035629] (-) EventReactorShutdown: {}
