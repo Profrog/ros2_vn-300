@@ -38,3 +38,14 @@ eash sh: echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 * ros2 run py_pubsub vn_time
 
 
+# rosbag(no act)
+* ros2 run py_pubsub vn_300
+* ros2 bag record /vn_300
+* ros2 bag info <...>
+* ros2 bag play <...>
+*
+
+
+
+
+
